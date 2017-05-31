@@ -22,7 +22,7 @@
 								<h2 class="home-slide-caption-title">SAMPLE HEADLINE</h2>
 								<p>Example descriptive text displayed on multiple lines.</p>
 								<div class="home-slide-caption-button-container">
-									<a href="/search" class="home-slide-caption-button">Shop Now</a>
+									<a href="/search" class="home-slide-caption-button">Shopping</a>
 								</div>
 							</div>
 						</div>
