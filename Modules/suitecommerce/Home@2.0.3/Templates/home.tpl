@@ -8,7 +8,7 @@
 <div class="home">
 	<div class="home-banner-top">
 		<p class="home-banner-top-message">
-			{{translate 'Use promo code <strong>SURYA</strong> for <strong>30%</strong> off your purchase'}}
+			{{translate 'Use promo code <strong>SURYAPROMO</strong> for <strong>30%</strong> off your purchase'}}
 		</p>
 	</div>
 	<div class="home-slider-container">
@@ -22,7 +22,7 @@
 								<h2 class="home-slide-caption-title">SAMPLE HEADLINE</h2>
 								<p>Example descriptive text displayed on multiple lines.</p>
 								<div class="home-slide-caption-button-container">
-									<a href="/search" class="home-slide-caption-button">Shopping</a>
+									<a href="/search" class="home-slide-caption-button">Shop Now</a>
 								</div>
 							</div>
 						</div>
